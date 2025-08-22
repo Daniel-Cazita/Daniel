@@ -1,7 +1,12 @@
 h1 align="center">👋 Olá, eu sou Daniel Gomes Cazita</h1>
 
 <p align="center">
-  💻 Estudante de Programação |
+  💻 Estudante de Programação | 
+  
+  ## 🚀 Sobre mim
+- 🎓 Estudo na escola Giovani Trentini, e faço curso de Desenvolvimento de Sistemas no Senai
+- 💻 Interessado em tecnologia e desenvolvimento de jogo e sites e banco de dados
+- 📚 Atualmente aprendendo: Lógica de Programação e Criação e Manipulação de Banco de Dados
 </p><br><br>
 
 
