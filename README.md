@@ -1,5 +1,10 @@
 ### 😎 **Sobre mim**  
-Olá, sou (coloque aqui o seu nome), (Coloque aqui sua formação e profissão).
+Olá, sou Daniel Gomes Cazita 
+
+## 🚀 Sobre mim
+- 🎓 Estudo na escola Giovani Trentini, e faço curso de Desenvolvimento de Sistemas no Senai
+- 💻 Interessado em tecnologia e desenvolvimento de jogo e sites e banco de dados
+- 📚 Atualmente aprendendo: Lógica de Programação e Criação e Manipulação de Banco de Dados.
 
 
 
@@ -22,18 +27,23 @@ Olá, sou (coloque aqui o seu nome), (Coloque aqui sua formação e profissão).
 Coloque aqui as informações de redes sociais:
 -->
 
-### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
-(Descreva aqui suas habilidades.).
+### 🧑‍💻 **Minhas Habilidades e Tecnologias** 
+
+Programação
+
+Banco de Dados
+
+Redes e Segurança
+
+Desenvolvimento Web
+
+Trabalho em Equipe.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
  <!-- Coloque aqui as imagens e gifs -->
 
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
+  
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
