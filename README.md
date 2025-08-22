@@ -1,4 +1,4 @@
-# Daniel<h1 align="center">👋 Olá, eu sou {Daniel Gomes Cazita}</h1>
+# Daniel<h1 align="center">👋 Olá, eu sou Daniel Gomes Cazita</h1>
 
 <p align="center">
   💻 Estudante de Programação | 
