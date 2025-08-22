@@ -1,30 +1,13 @@
-# 👋 Olá, eu sou o Daniel Gomes Cazita  
+h1 align="center">👋 Olá, eu sou Daniel Gomes Cazita</h1>
 
-💻 Desenvolvedor em constante aprendizado, apaixonado por tecnologia e resolução de problemas.  
-🎯 Interesse em **Banco de Dados**, **Java**, **Backend** e **Modelagem de Sistemas**.  
-📚 Atualmente estudando **engenharia de software** e boas práticas de programação.  
+<p align="center">
+  💻 Estudante de Programação |
+</p><br><br>
 
----
 
-## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Java, SQL, Python  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Ferramentas:** Git, GitHub, VS Code, Eclipse  
-- **Outros:** Modelagem UML, Diagramas ER, Metodologias Ágeis  
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
 
----
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
 
-## 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🌎 Onde me encontrar
-- 📧 **Email:** seuemail@email.com  
-- 💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seuusuario)  
-- 🐦 **Twitter/X:** [@SeuUsuario](https://twitter.com/seuusuario)
-
----
-
-✨ *“A cada linha de código escrita, mais próximo da solução e do aprendizado.”*
